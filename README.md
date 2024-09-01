@@ -22,5 +22,6 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
