@@ -4,12 +4,14 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
@@ -19,6 +21,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -29,4 +32,12 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
