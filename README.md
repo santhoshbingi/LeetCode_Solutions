@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0189-rotate-array](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
