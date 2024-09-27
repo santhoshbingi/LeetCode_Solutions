@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
@@ -48,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Binary Search
