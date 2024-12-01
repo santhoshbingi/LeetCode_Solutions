@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -47,6 +48,7 @@
 | [0075-sort-colors](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 | ------- |
 | [0136-single-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
