@@ -54,6 +54,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -74,4 +75,16 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
