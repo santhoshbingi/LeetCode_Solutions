@@ -90,4 +90,20 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
