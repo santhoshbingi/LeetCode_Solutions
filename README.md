@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -42,6 +43,7 @@
 | [0009-palindrome-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0313-super-ugly-number](https://github.com/santhoshbingi/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 <!---LeetCode Topics End-->
